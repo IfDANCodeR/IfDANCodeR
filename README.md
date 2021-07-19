@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IfDANCodeR
+- 👀 I’m interested in anime, gamedev
+- 🌱 I’m currently learning C++, Python
+- 📫 How to reach me: ifdancoder@gmail.con
